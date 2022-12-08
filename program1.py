@@ -1,1 +1,2 @@
-print("Hello! GitHub Repository ")
+data = 5
+print(data)
